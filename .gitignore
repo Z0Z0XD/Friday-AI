@@ -1,0 +1,10 @@
+.env
+config.json
+secrets.json
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+Thumbs.db
+venv/
+friday_browser_profile/
