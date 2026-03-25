@@ -8,3 +8,5 @@ __pycache__/
 Thumbs.db
 venv/
 friday_browser_profile/
+memory/history.json
+memory/profile.json
